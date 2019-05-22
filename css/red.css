@@ -1,0 +1,258 @@
+/* red v3 */
+
+/* poll container */
+.basic-yop-poll-container.red-v3 {
+	background-color: #ffffff;
+	border-width: 3px;
+	border-color: #B70004;
+	border-radius: 0;
+	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
+}
+/* poll question */
+.basic-yop-poll-container.red-v3 .basic-question-title h5 {
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+/* poll answers */
+.basic-yop-poll-container.red-v3 .basic-answer {
+	padding: 0 0;
+}
+.basic-yop-poll-container.red-v3 .basic-answer .basic-text {
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+/*  poll buttons */
+.basic-yop-poll-container.red-v3 .basic-vote-button {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 0;
+	padding: 5px 10px; /* padding-top/bottom=5px / paddding-left/right=10px */
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+.basic-yop-poll-container.red-v3 .basic-vote-button:hover,
+.basic-yop-poll-container.red-v3 .basic-vote-button:focus {
+	background-color: #ffffff;
+	border-color: #000;
+	color: #000;
+}
+/* advance / custom css */
+.basic-yop-poll-container.red-v3 .basic-vote {
+	text-align: center;
+}
+.basic-yop-poll-container.red-v3 .basic-vote-button {
+	border-style: solid;
+}
+
+/* red v2 */
+
+/* poll container */
+.basic-yop-poll-container.red-v2 {
+	background-color: #ffffff;
+	border-width: 0;
+	border-color: #ffffff;
+	border-radius: 0;
+	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
+}
+/* poll question */
+.basic-yop-poll-container.red-v2 .basic-question-title h5 {
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+/* poll answers */
+.basic-yop-poll-container.red-v2 .basic-answer {
+	padding: 0 0;
+}
+.basic-yop-poll-container.red-v2 .basic-answer .basic-text {
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+/*  poll buttons */
+.basic-yop-poll-container.red-v2 .basic-vote-button {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 0;
+	padding: 5px 10px; /* padding-top/bottom=5px / paddding-left/right=10px */
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+.basic-yop-poll-container.red-v2 .basic-vote-button:hover,
+.basic-yop-poll-container.red-v2 .basic-vote-button:focus {
+	background-color: #ffffff;
+	border-color: #000;
+	color: #000;
+}
+/* advance / custom css */
+.basic-yop-poll-container.red-v2 .basic-vote {
+	text-align: center;
+}
+.basic-yop-poll-container.red-v2 .basic-question-title h5 {
+	background-color: #B70004;
+	padding: 5px 0; /* padding-top/bottom=5px / paddding-left/right=0px */
+}
+.basic-yop-poll-container.red-v2 .basic-vote-button {
+	border-style: solid;
+}
+
+/* red v1 */
+
+/* poll container */
+.basic-yop-poll-container.red-v1 {
+	background-color: #B70004;
+	border-width: 0;
+	border-color: #B70004;
+	border-radius: 0;
+	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
+}
+/* poll question */
+.basic-yop-poll-container.red-v1 .basic-question-title h5 {
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+/* poll answers */
+.basic-yop-poll-container.red-v1 .basic-answer {
+	padding: 0 0;
+}
+.basic-yop-poll-container.red-v1 .basic-answer .basic-text {
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: normal;
+}
+/*  poll buttons */
+.basic-yop-poll-container.red-v1 .basic-vote-button {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 0;
+	padding: 5px 10px; /* padding-top/bottom=5px / paddding-left/right=10px */
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+.basic-yop-poll-container.red-v1 .basic-vote-button:hover,
+.basic-yop-poll-container.red-v1 .basic-vote-button:focus {
+	background-color: #ffffff;
+	border-color: #000;
+	color: #000;
+}
+/* advance / custom css */
+.basic-yop-poll-container.red-v1 .basic-vote {
+	text-align: center;
+}
+.basic-yop-poll-container.red-v1 .basic-vote-button {
+	border-style: solid;
+}
+
+/* red v4 */
+
+/* poll container */
+.basic-yop-poll-container.red-v4 {
+	background-color: #ffffff;
+	border-width: 3px;
+	border-color: #B70004;
+	border-radius: 7px;
+	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
+}
+/* poll question */
+.basic-yop-poll-container.red-v4 .basic-question-title h5 {
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+/* poll answers */
+.basic-yop-poll-container.red-v4 .basic-answer {
+	padding: 0 0;
+}
+.basic-yop-poll-container.red-v4 .basic-answer .basic-text {
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+/*  poll buttons */
+.basic-yop-poll-container.red-v4 .basic-vote-button {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 0;
+	padding: 5px 10px; /* padding-top/bottom=5px / paddding-left/right=10px */
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+.basic-yop-poll-container.red-v4 .basic-vote-button:hover,
+.basic-yop-poll-container.red-v4 .basic-vote-button:focus {
+	background-color: #ffffff;
+	border-color: #000;
+	color: #000;
+}
+/* advance / custom css */
+.basic-yop-poll-container.red-v4 .basic-vote {
+	text-align: center;
+}
+.basic-yop-poll-container.red-v4 .basic-vote-button {
+	border-style: solid;
+}
+
+/* red v5 */
+
+/* poll container */
+.basic-yop-poll-container.red-v5 {
+	background-color: #B70004;
+	border-width: 0;
+	border-color: #B70004;
+	border-radius: 7px;
+	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
+}
+/* poll question */
+.basic-yop-poll-container.red-v5 .basic-question-title h5 {
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+/* poll answers */
+.basic-yop-poll-container.red-v5 .basic-answer {
+	padding: 0 0;
+}
+.basic-yop-poll-container.red-v5 .basic-answer .basic-text {
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: normal;
+}
+/*  poll buttons */
+.basic-yop-poll-container.red-v5 .basic-vote-button {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 0;
+	padding: 5px 10px; /* padding-top/bottom=5px / paddding-left/right=10px */
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+.basic-yop-poll-container.red-v5 .basic-vote-button:hover,
+.basic-yop-poll-container.red-v5 .basic-vote-button:focus {
+	background-color: #ffffff;
+	border-color: #000;
+	color: #000;
+}
+/* advance / custom css */
+.basic-yop-poll-container.red-v5 .basic-vote {
+	text-align: center;
+}
+.basic-yop-poll-container.red-v5 .basic-vote-button {
+	border-style: solid;
+}

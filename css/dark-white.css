@@ -1,0 +1,256 @@
+/* dark v1 */
+
+/* poll container */
+.basic-yop-poll-container.dark-v1 {
+	background-color: #555555;
+	border-width: 0;
+	border-color: #555555;
+	border-radius: 0;
+	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
+}
+/* poll question */
+.basic-yop-poll-container.dark-v1 .basic-question-title h5 {
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+/* poll answers */
+.basic-yop-poll-container.dark-v1 .basic-answer {
+	padding: 0 0;
+}
+.basic-yop-poll-container.dark-v1 .basic-answer .basic-text {
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: normal;
+}
+/*  poll buttons */
+.basic-yop-poll-container.dark-v1 .basic-vote-button {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 0;
+	padding: 5px 10px; /* padding-top/bottom=5px / paddding-left/right=10px */
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+.basic-yop-poll-container.dark-v1 .basic-vote-button:hover,
+.basic-yop-poll-container.dark-v1 .basic-vote-button:focus {
+	background-color: #ffffff;
+	border-color: #000;
+	color: #000;
+}
+/* advance / custom css */
+.basic-yop-poll-container.dark-v1 .basic-vote {
+	text-align: center;
+}
+.basic-yop-poll-container.dark-v1 .basic-vote-button {
+	border-style: solid;
+}
+
+
+/* grey */
+
+/* poll container */
+.basic-yop-poll-container.grey {
+	background-color: #EEEEEE;
+	border-width: 0;
+	border-color: #EEEEEE;
+	border-radius: 0;
+	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
+}
+/* poll question */
+.basic-yop-poll-container.grey .basic-question-title h5 {
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+/* poll answers */
+.basic-yop-poll-container.grey .basic-answer {
+	padding: 0 0;
+}
+.basic-yop-poll-container.grey .basic-answer .basic-text {
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+/*  poll buttons */
+.basic-yop-poll-container.grey .basic-vote-button {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 0;
+	padding: 5px 10px; /* padding-top/bottom=5px / paddding-left/right=10px */
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+.basic-yop-poll-container.grey .basic-vote-button:hover,
+.basic-yop-poll-container.grey .basic-vote-button:focus {
+	background-color: #ffffff;
+	border-color: #000;
+	color: #000;
+}
+/* advance / custom css */
+.basic-yop-poll-container.grey .basic-vote {
+	text-align: center;
+}
+.basic-yop-poll-container.grey .basic-vote-button {
+	border-style: solid;
+}
+
+/* white v1 */
+
+/* poll container */
+.basic-yop-poll-container.white-v1 {
+	background-color: #ffffff;
+	border-width: 0;
+	border-color: #ffffff;
+	border-radius: 0;
+	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
+}
+/* poll question */
+.basic-yop-poll-container.white-v1 .basic-question-title h5 {
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+/* poll answers */
+.basic-yop-poll-container.white-v1 .basic-answer {
+	padding: 0 0;
+}
+.basic-yop-poll-container.white-v1 .basic-answer .basic-text {
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+/*  poll buttons */
+.basic-yop-poll-container.white-v1 .basic-vote-button {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 0;
+	padding: 5px 10px; /* padding-top/bottom=5px / paddding-left/right=10px */
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+.basic-yop-poll-container.white-v1 .basic-vote-button:hover,
+.basic-yop-poll-container.white-v1 .basic-vote-button:focus {
+	background-color: #ffffff;
+	border-color: #000;
+	color: #000;
+}
+/* advance / custom css */
+.basic-yop-poll-container.white-v1 .basic-vote {
+	text-align: center;
+}
+.basic-yop-poll-container.white-v1 .basic-vote-button {
+	border-style: solid;
+}
+
+
+/* dark v2 */
+
+/* poll container */
+.basic-yop-poll-container.dark-v2 {
+	background-color: #555555;
+	border-width: 0;
+	border-color: #555555;
+	border-radius: 7px;
+	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
+}
+/* poll question */
+.basic-yop-poll-container.dark-v2 .basic-question-title h5 {
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+/* poll answers */
+.basic-yop-poll-container.dark-v2 .basic-answer {
+	padding: 0 0;
+}
+.basic-yop-poll-container.dark-v2 .basic-answer .basic-text {
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: normal;
+}
+/*  poll buttons */
+.basic-yop-poll-container.dark-v2 .basic-vote-button {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 0;
+	padding: 5px 10px; /* padding-top/bottom=5px / paddding-left/right=10px */
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+.basic-yop-poll-container.dark-v2 .basic-vote-button:hover,
+.basic-yop-poll-container.dark-v2 .basic-vote-button:focus {
+	background-color: #ffffff;
+	border-color: #000;
+	color: #000;
+}
+/* advance / custom css */
+.basic-yop-poll-container.dark-v2 .basic-vote {
+	text-align: center;
+}
+.basic-yop-poll-container.dark-v2 .basic-vote-button {
+	border-style: solid;
+}
+
+/* white v2 */
+
+/* poll container */
+.basic-yop-poll-container.white-v2 {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #000000;
+	border-radius: 5px;
+	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
+}
+/* poll question */
+.basic-yop-poll-container.white-v2 .basic-question-title h5 {
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+/* poll answers */
+.basic-yop-poll-container.white-v2 .basic-answer {
+	padding: 0 0;
+}
+.basic-yop-poll-container.white-v2 .basic-answer .basic-text {
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+/*  poll buttons */
+.basic-yop-poll-container.white-v2 .basic-vote-button {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 0;
+	padding: 5px 10px; /* padding-top/bottom=5px / paddding-left/right=10px */
+	color: #000;
+	font-size: 14px;
+	font-weight: normal;
+}
+.basic-yop-poll-container.white-v2 .basic-vote-button:hover,
+.basic-yop-poll-container.white-v2 .basic-vote-button:focus {
+	background-color: #ffffff;
+	border-color: #000;
+	color: #000;
+}
+/* advance / custom css */
+.basic-yop-poll-container.white-v2 .basic-vote {
+	text-align: center;
+}
+.basic-yop-poll-container.white-v2 .basic-vote-button {
+	border-style: solid;
+}
