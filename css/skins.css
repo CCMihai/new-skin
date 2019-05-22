@@ -42,7 +42,7 @@ figcaption.yp-figcaption button {
 /* poll container */
 .basic-yop-poll-container.orange-v3 {
 	background-color: #ffffff;
-	border-width: 5px;
+	border-width: 3px;
 	border-color: #FB6911;
 	border-radius: 0;
 	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
@@ -138,7 +138,7 @@ figcaption.yp-figcaption button {
 }
 .basic-yop-poll-container.orange-v2 .basic-question-title h5 {
 	background-color: #FB6911;
-	padding: 7px 0; /* padding-top/bottom=5px / paddding-left/right=0px */
+	padding: 5px 0; /* padding-top/bottom=5px / paddding-left/right=0px */
 }
 .basic-yop-poll-container.orange-v2 .basic-vote-button {
 	border-style: solid;
@@ -200,7 +200,7 @@ figcaption.yp-figcaption button {
 /* poll container */
 .basic-yop-poll-container.orange-v4 {
 	background-color: #ffffff;
-	border-width: 5px;
+	border-width: 3px;
 	border-color: #FB6911;
 	border-radius: 7px;
 	padding: 10px 10px; /* padding-top/bottom=10px / paddding-left/right=10px */
