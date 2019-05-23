@@ -40,4 +40,5 @@ figure.yp-figure:hover figcaption.yp-figcaption {
 }
 figcaption.yp-figcaption button {
 	margin: 10px auto;
+	width: 100px;
 }
