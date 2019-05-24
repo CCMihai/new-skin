@@ -52,3 +52,7 @@ figure.yp-figure .glyphicon {
     font-size: 17px;
     border-radius: 50%
 }
+.yp-figure.shadow {
+    -webkit-box-shadow: 0 0.15rem 0.15rem 0 rgba(0,0,0,.15), 0 0.2rem 0.1rem -0.15rem rgba(0,0,0,.2), 0 0.1rem 0.5rem 0 rgba(0,0,0,.15);
+    box-shadow: 0 0.15rem 0.15rem 0 rgba(0,0,0,.15), 0 0.2rem 0.1rem -0.15rem rgba(0,0,0,.2), 0 0.1rem 0.5rem 0 rgba(0,0,0,.15);
+}
