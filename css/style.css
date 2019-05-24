@@ -43,11 +43,12 @@ figcaption.yp-figcaption button {
 	width: 100px;
 }
 figure.yp-figure .glyphicon {
-	color: green;
-	background-color: #fff;
-	padding: 5px;
-	position: absolute;
-	top: 5px;
-    left: 5px;
-    font-size: 18px;
+    color: green;
+    background-color: #fff;
+    padding: 8px;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    font-size: 17px;
+    border-radius: 50%
 }
