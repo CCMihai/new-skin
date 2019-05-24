@@ -13,6 +13,10 @@ figure.yp-figure {
 	margin-bottom: 25px;
 	margin-right: auto;
 	margin-left: auto;
+	opacity: 0.25;
+}
+.yp-figure.selected {
+        opacity: 1;
 }
 figcaption.yp-figcaption {
 	position: absolute;
