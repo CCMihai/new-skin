@@ -13,10 +13,6 @@ figure.yp-figure {
 	margin-bottom: 25px;
 	margin-right: auto;
 	margin-left: auto;
-	opacity: 0.25;
-}
-.yp-figure.selected {
-        opacity: 1;
 }
 figcaption.yp-figcaption {
 	position: absolute;
@@ -44,19 +40,34 @@ figure.yp-figure:hover figcaption.yp-figcaption {
 }
 figcaption.yp-figcaption button {
 	margin: 10px auto;
-	width: 100px;
+	width: 110px;
 }
 figure.yp-figure .glyphicon {
-    color: green;
+	color: green;
     background-color: #fff;
     padding: 8px;
     position: absolute;
     top: 4px;
     left: 4px;
     font-size: 17px;
-    border-radius: 50%
+    border-radius: 50% 
 }
 .yp-figure.shadow {
     -webkit-box-shadow: 0 0.15rem 0.15rem 0 rgba(0,0,0,.15), 0 0.2rem 0.1rem -0.15rem rgba(0,0,0,.2), 0 0.1rem 0.5rem 0 rgba(0,0,0,.15);
     box-shadow: 0 0.15rem 0.15rem 0 rgba(0,0,0,.15), 0 0.2rem 0.1rem -0.15rem rgba(0,0,0,.2), 0 0.1rem 0.5rem 0 rgba(0,0,0,.15);
+}
+.yp-figure.selected {
+	-webkit-filter: blur(0);
+	        filter: blur(0);
+	-webkit-transform: scale(1.25, 1.15);
+	    -ms-transform: scale(1.25, 1.15);
+	        transform: scale(1.25, 1.15);
+	z-index: 5;
+    -webkit-box-shadow: 0 0.15rem 0.15rem 0 rgba(0,0,0,.15), 0 0.2rem 0.1rem -0.15rem rgba(0,0,0,.2), 0 0.1rem 0.5rem 0 rgba(0,0,0,.15);
+    box-shadow: 0 0.15rem 0.15rem 0 rgba(0,0,0,.15), 0 0.2rem 0.1rem -0.15rem rgba(0,0,0,.2), 0 0.1rem 0.5rem 0 rgba(0,0,0,.15);
+}
+.yp-figure {
+	-webkit-filter: blur(1.75px);
+	        filter: blur(1.75px);
+	z-index: 1;
 }
