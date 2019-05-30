@@ -1,0 +1,73 @@
+@media screen and (min-width: 992px) {
+	.col-width.col-md-2 {
+		width: 20%;
+	}
+}
+@media screen and (max-width: 576px) {
+	.col-width.col-xs-6 {
+		width: 100%;
+	}
+}
+figure.yp-figure {
+	position: relative;
+	margin-bottom: 25px;
+	margin-right: auto;
+	margin-left: auto;
+}
+figcaption.yp-figcaption {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.75);
+	display: none !important;
+}
+figure.yp-figure:hover figcaption.yp-figcaption {
+	display: -webkit-box !important;
+	display: -ms-flexbox !important;
+	display: flex !important;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;        
+}
+figcaption.yp-figcaption button {
+	margin: 10px auto;
+	width: 110px;
+}
+figure.yp-figure .glyphicon {
+	color: green;
+    background-color: #fff;
+    padding: 8px;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    font-size: 17px;
+    border-radius: 50% 
+}
+.yp-figure.shadow {
+    -webkit-box-shadow: 0 0.15rem 0.15rem 0 rgba(0,0,0,.15), 0 0.2rem 0.1rem -0.15rem rgba(0,0,0,.2), 0 0.1rem 0.5rem 0 rgba(0,0,0,.15);
+    box-shadow: 0 0.15rem 0.15rem 0 rgba(0,0,0,.15), 0 0.2rem 0.1rem -0.15rem rgba(0,0,0,.2), 0 0.1rem 0.5rem 0 rgba(0,0,0,.15);
+}
+.yp-figure.selected {
+	/* -webkit-filter: blur(0);
+	        filter: blur(0); */
+	-webkit-transform: scale(1.25, 1.15);
+	    -ms-transform: scale(1.25, 1.15);
+	        transform: scale(1.25, 1.15);
+	z-index: 5;
+    -webkit-box-shadow: 0 0.15rem 0.15rem 0 rgba(0,0,0,.15), 0 0.2rem 0.1rem -0.15rem rgba(0,0,0,.2), 0 0.1rem 0.5rem 0 rgba(0,0,0,.15);
+    box-shadow: 0 0.15rem 0.15rem 0 rgba(0,0,0,.15), 0 0.2rem 0.1rem -0.15rem rgba(0,0,0,.2), 0 0.1rem 0.5rem 0 rgba(0,0,0,.15);
+}
+.yp-figure {
+	/* -webkit-filter: blur(1.75px);
+	        filter: blur(1.75px); */
+	z-index: 1;
+}
