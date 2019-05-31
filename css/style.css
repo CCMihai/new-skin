@@ -65,7 +65,7 @@ figure.yp-figure .selected-overlay {
 	display: flex;
 }
 .yp-figure.selected:hover figcaption.yp-figcaption {
-	display: none;
+	display: none !important;
 }
 /* .yp-figure.selected {
 	-webkit-filter: blur(0);
